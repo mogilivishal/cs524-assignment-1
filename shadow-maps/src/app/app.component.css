@@ -1,0 +1,11 @@
+#navi {
+    width: 40%;
+    height: 60%;
+    position: absolute;
+    top: 0%;
+    left: 70%;
+  }
+  #infoi {
+    z-index: -10;
+  }
+  
